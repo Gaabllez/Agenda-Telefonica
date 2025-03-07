@@ -26,13 +26,13 @@ Clone este repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/gaabllez/agenda_contato.git
+git clone https://github.com/gaabllez/Agenda-Telefonica.git
 Navegue até a pasta do projeto:
 
 bash
 Copiar
 Editar
-cd agenda_contato
+cd Agenda-Telefonica
 Instale as dependências:
 
 bash
